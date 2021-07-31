@@ -1,0 +1,18 @@
+@charset 'utf-8';
+
+*{ margin: 0; padding: 0; }
+a{ text-decoration: none; color:#222; }
+li{ list-style: none; }
+img{ vertical-align: middle; border:none; }
+h1, h2, h3, h4{ font-weight: normal;}
+
+input, textarea, button, select{
+    appearance: none;
+    border: 0;
+    background: 0;
+    outline: 0;
+    box-shadow: none;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+}
