@@ -1,4 +1,4 @@
-﻿
+
 body{ -ms-overflow-style: none;
     font-family: 'Noto Sans KR', sans-serif;}
 ::-webkit-scrollbar { display: none; }
@@ -787,6 +787,9 @@ background: red;
     height: 51vw;
     width: 37.5vw;
 }
+#works .work.n7 .imgWrapper{
+    margin-top: -26vh;
+}
 #works .work .imgWrapper .image{
   background-size: cover;
   height: 100%;
@@ -805,10 +808,13 @@ background: red;
      background-image: url(../img/work/banner.jpg);
 }
 #works .work.n5 .imgWrapper .image{
-     background-image: url(../img/work/website_design-01.png);
+     background-image: url(../img/work/website_design-01.jpg);
 }
 #works .work.n6 .imgWrapper .image{
      background-image: url(../img/work/web_site.PNG);
+}
+#works .work.n7 .imgWrapper .image{
+     background-image: url(../img/work/3dmax.png);
 }
 #works .work.n2 .infoWrapper, #works .work.n4 .infoWrapper, #works .work.n6 .infoWrapper{
     width:  43.75vw;
